@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+pybedtools
+macs2
+pysam
+biopython
+notebook
